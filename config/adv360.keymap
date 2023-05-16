@@ -83,7 +83,7 @@
  &trans   &kp LG(LC(Q))  &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans            &trans                                                     &trans  &trans    &macro_parens    &trans     &trans  &trans          &trans
  &trans  &trans  &trans        &kp LEFT_BRACE        &kp RIGHT_BRACE  &trans            &trans  &trans  &trans  &trans  &trans  &trans     &trans  &trans  &trans    &macro_braces  &kp LA(LEFT)  &kp LA(RIGHT)  &trans  &macro_dquotes
  &trans  &trans  &trans      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &trans            &trans  &trans  &trans  &trans  &trans  &trans     &trans  &trans  &trans  &macro_brackets    &trans     &trans  &trans          &trans
- &trans  &trans  &trans                &trans                 &trans                    &trans  &trans  &trans                  &trans  &kp LG(LS(ENTER))  &trans                   &trans    &trans     &trans  &trans          &trans
+ &trans  &trans  &trans                &trans                 &trans                    &kp RA(BSPC)  &trans  &trans                  &trans  &kp LG(LS(ENTER))  &trans                   &trans    &trans     &trans  &trans          &trans
             >;
         };
 
